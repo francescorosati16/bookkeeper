@@ -2,7 +2,7 @@
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.apache.bookkeeper/bookkeeper/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.apache.bookkeeper/bookkeeper)
 
-# Apache BookKeeper
+# Apache BookKeeper by FR
 
 Apache BookKeeper is a scalable, fault tolerant and low latency storage service optimized for append-only workloads.
 
